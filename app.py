@@ -1,5 +1,5 @@
 import streamlit as st
-!pip install tensorflow
+!pip install --upgrade tensorflow
 import numpy as np 
 import tensorflow as tf 
 from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
